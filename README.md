@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=MaxKoval1ov&style=flat-square&color=blueviolet" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media0.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif?cid=790b76115f656b2ee62ccc08891b237bba2268db51643bd9&rid=giphy.gif&ct=s" width="300" height="300"/>
 </div>
 
 ---
