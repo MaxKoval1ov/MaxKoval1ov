@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus ⚪🔴⚪.
-- :telescope: I’m going to become web-engineer and participate in interesting projects.
+- :telescope: I’m want to become true web-developer and participate in interesting projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Max-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
