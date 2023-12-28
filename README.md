@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus ⚪🔴⚪.
-- :telescope: I’m want to become true web-developer and participate in interesting projects.
+- :telescope: Eager to self-develop
 
 ---
 
